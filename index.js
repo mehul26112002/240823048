@@ -16,3 +16,4 @@ if(n%2)
 {
     console.log("Even Number")
 }
+
